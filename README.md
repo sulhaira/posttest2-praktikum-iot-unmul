@@ -9,13 +9,13 @@
     MONITORING DAN KONTROLLING SUHU RUANGAN
     
 ## Deskripsi
-    <p>
-    Jika suhu di bawah 20 derajat celcius lampu hijau akan menyala, suhu di sekitar 21-26 derajat celcius lampu kuning akan menyala, 
+    Jika suhu di bawah 20 derajat celcius lampu hijau akan menyala, 
+    suhu di sekitar 21-26 derajat celcius lampu kuning akan menyala, 
     dan jika suhu di atas 27 derajat celcius maka lampu merah menyala.
-    </p>
     
 ## Metode IoT (cara kendali dan monitor, pakai protokol apa, dll.)
-    Cara kendali dan monitoring diatur menggunakan platform blynk, 
+    Cara kendali dan monitoring diatur menggunakan platform blynk.
+    
 ## Pembagian Tugas per Individu
     - control led lampu hijau (Sulhairah)
     - control led lampu kuning (Cantika)
