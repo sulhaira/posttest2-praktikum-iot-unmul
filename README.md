@@ -6,14 +6,16 @@
 - 2009106045  Cantika Fitri Ayu. D
 
 ## Judul studi kasus
-    Monitoring dan Kontrolling Suhu Ruangan
+    MONITORING DAN KONTROLLING SUHU RUANGAN
     
 ## Deskripsi
+    <p>
     Jika suhu di bawah 20 derajat celcius lampu hijau akan menyala, suhu di sekitar 21-26 derajat celcius lampu kuning akan menyala, 
     dan jika suhu di atas 27 derajat celcius maka lampu merah menyala.
+    </p>
     
 ## Metode IoT (cara kendali dan monitor, pakai protokol apa, dll.)
-    
+    Cara kendali dan monitoring diatur menggunakan platform blynk, 
 ## Pembagian Tugas per Individu
     - control led lampu hijau (Sulhairah)
     - control led lampu kuning (Cantika)
@@ -31,3 +33,6 @@
     - ESP8266
     
 ## Board Schematic (Dirancang sendiri menggunakan Wokwi / Tinkercad / Fritzing )
+<p align="center">
+  <img src="rangkaianwokwi.jpeg" width="350" title="rangkaian wokwi posttest 2">
+</p>
