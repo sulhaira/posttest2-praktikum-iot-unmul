@@ -14,7 +14,7 @@
     dan jika suhu di atas 27 derajat celcius maka lampu merah menyala.
     
 ## Metode IoT (cara kendali dan monitor, pakai protokol apa, dll.)
-    Cara kendali dan monitoring diatur menggunakan platform blynk.
+    Sensor ini dikendalikan melalui wifi dengan menggunakan platform blynk serta dapat mengontrol dan monitoring suhu dan LED
     
 ## Pembagian Tugas per Individu
     - control led lampu hijau (Sulhairah)
@@ -34,5 +34,5 @@
     
 ## Board Schematic (Dirancang sendiri menggunakan Wokwi / Tinkercad / Fritzing )
 <p align="center">
-  <img src="rangkaianwokwi.png" width="350" title="rangkaian wokwi posttest 2">
+  <img src="rangkaianwokwi.PNG" width="350" title="rangkaian wokwi posttest 2">
 </p>
