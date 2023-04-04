@@ -34,5 +34,5 @@
     
 ## Board Schematic (Dirancang sendiri menggunakan Wokwi / Tinkercad / Fritzing )
 <p align="center">
-  <img src="rangkaianwokwi.jpeg" width="350" title="rangkaian wokwi posttest 2">
+  <img src="rangkaianwokwi.png" width="350" title="rangkaian wokwi posttest 2">
 </p>
